@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\App\CProjects\MPI\Source.cpp(24,6): warning C4101: x: неиспользованная локальная переменная
+C:\App\CProjects\MPI\Source.cpp(65,6): warning C4101: x: неиспользованная локальная переменная
+  MPI.vcxproj -> C:\App\CProjects\MPI\x64\Debug\MPI.exe
